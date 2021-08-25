@@ -1,10 +1,10 @@
 # ObsCSGO
 Allow obs to capture csgo in fullscreen mode
 
-#Tutorial
+<h1>Tutorial</h1>
 Download both files
 
-#OBS STUDIO:
+<h1>OBS STUDIO:<h1>
 win-capture.dll goes into:
 C:\Program Files\obs-studio\obs-plugins\64bit\win-capture.dll
 
